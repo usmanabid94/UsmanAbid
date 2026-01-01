@@ -119,25 +119,56 @@ I'm a **senior mobile app developer** specializing in building high-performance,
 
 ---
 
-## 🏆 Featured Mobile Apps
 
-### 🚖 Bolt — Ride App
+## 🏆 Featured Mobile Apps Portfolio
 
-### 👶 Sitly — Babysitting
+### 🚖 **Bolt – Request a Ride**
+`React Native` `Kotlin` `Real-time GPS` `Payment Integration`
+- Ride-hailing platform with real-time driver tracking
+- Secure payment processing and ride history
+- High-performance mapping and location services
 
-### 📊 Deputy — Workforce
+### 👶 **Sitly – Babysitting App**
+`React Native` `Firebase` `Chat` `Booking System`
+- Connects parents with trusted babysitters
+- In-app messaging and scheduling
+- Profile verification and rating system
 
-### 📺 BritBox — Streaming
+### 📊 **Deputy – Workforce Scheduling**
+`Firebase` `React Native` `Enterprise Scale`
+- Employee scheduling and time tracking
+- Shift management and notifications
+- Enterprise-grade security and compliance
 
-### 💼 SEEK Jobs
+### 📺 **BritBox – British TV Streaming**
+`Flutter` `Video Streaming` `DRM` `Offline Mode`
+- Premium video streaming platform
+- Secure content delivery with DRM
+- Offline downloads and playback
 
-### 📋 Taskport
+### 💼 **SEEK Jobs**
+`React Native` `High-Scale Architecture` `Complex State Management`
+- Australia's leading job search platform
+- Advanced filtering and recommendation engine
+- Optimized for millions of active users
 
-### 💪 Fitness Streaming
+### 📋 **Taskport – Organizer App**
+`Real-time Sync` `Push Notifications` `Offline First`
+- Task management with team collaboration
+- Real-time updates across devices
+- Smart reminders and productivity analytics
 
-### 💬 AI Social App
+### 💪 **Forever Young Workout**
+`Flutter` `Video Streaming` `In-App Purchases`
+- Fitness video streaming platform
+- Workout tracking and progress analytics
+- Subscription-based monetization
 
-(Details same as your first README — all text already included above)
+### 💬 **ChatWise – AI Social App**
+`OpenAI` `Firebase` `Real-time Chat` `AI Integration`
+- AI-powered social networking platform
+- Smart conversation suggestions
+- Real-time messaging with AI assistance
 
 ---
 
