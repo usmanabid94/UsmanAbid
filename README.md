@@ -11,7 +11,7 @@
 
 ### 💰 **$80/hr** | 🌍 Worldwide | 🚀 Full-Stack Mobile Solutions
 
-[![Hire Me on Upwork](https://img.shields.io/badge/💼_HIRE_ME_ON_UPWORK-6fda44?style=for-the-badge\&logo=upwork\&logoColor=white)]([https://www.upwork.com/freelancers/~01a078b9f2a2be910a](https://www.upwork.com/freelancers/~01864354e2b0d5cbf9))
+[![Hire Me on Upwork](https://img.shields.io/badge/💼_HIRE_ME_ON_UPWORK-6fda44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01864354e2b0d5cbf9)
 
 </div>
 
